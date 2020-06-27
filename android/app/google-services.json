@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "92258377790",
+    "firebase_url": "https://qr-cord-scanner-app.firebaseio.com",
+    "project_id": "qr-cord-scanner-app",
+    "storage_bucket": "qr-cord-scanner-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92258377790:android:2383925c4be46782b4316f",
+        "android_client_info": {
+          "package_name": "com.qrcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92258377790-q7t4g7ob0evnghhh61nf09o6rglo6pci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbDEgiQS3ehLbnCOysQ16qC3gnwS55CGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92258377790-q7t4g7ob0evnghhh61nf09o6rglo6pci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
